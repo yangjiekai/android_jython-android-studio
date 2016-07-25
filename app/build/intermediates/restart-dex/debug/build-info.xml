@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="23"
+    density="560dpi"
+    format="7"
+    timestamp="7592478364894"
+    token="6889726853521996464" >
+
+    <task
+        name="javac"
+        duration="10563" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="11064" />
+    <task
+        name="verifier"
+        duration="3256" />
+
+    <artifact
+        location="C:\app_class\7_25\jython-on-android-master\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="7592478364894" >
+        <artifact
+            location="C:\app_class\7_25\jython-on-android-master\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
